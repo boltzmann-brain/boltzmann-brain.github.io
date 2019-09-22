@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Leif Hancox-Li</title>
+    <link>http://boltzmann-brain.github.io/</link>
+    <description>Recent content on Leif Hancox-Li</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 07 Jul 2019 21:48:16 -0400</lastBuildDate>
+    
+	<atom:link href="http://boltzmann-brain.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Papers</title>
+      <link>http://boltzmann-brain.github.io/papers/</link>
+      <pubDate>Sun, 07 Jul 2019 21:48:16 -0400</pubDate>
+      
+      <guid>http://boltzmann-brain.github.io/papers/</guid>
+      <description>A list of published papers and preprints in feminist philosophy and philosophy of physics.
+Philosophy of Quantum Field Theory &amp;ldquo;Solutions in Constructive Field Theory,&amp;rdquo; Philosophy of Science 84, no. 2 (April 2017): 335-358.
+ On how the concept of a &amp;ldquo;correct solution&amp;rdquo; in mathematically rigorous quantum field theory depends on non-rigorous considerations. Journal link; preprint  &amp;ldquo;Coarse-Graining as a Route to Microscopic Physics: The Renormalization Group in Quantum Field Theory,&amp;rdquo; Philosophy of Science 82, no.</description>
+    </item>
+    
+    <item>
+      <title>Experience</title>
+      <link>http://boltzmann-brain.github.io/resume/</link>
+      <pubDate>Sat, 06 Jul 2019 16:42:37 -0400</pubDate>
+      
+      <guid>http://boltzmann-brain.github.io/resume/</guid>
+      <description>My resume is also available in PDF form. Alternatively, you can view my LinkedIn profile.
+Work Technical Writer and Researcher, Capital One 2019 - present
+ Write tutorials, conceptual guides, and other documentation for a Kubernetes cloud platform. Do research on fair and explainable machine learning. Write playbook for data scientists providing guidance on best practices for responsible AI.  Senior Technical Writer, Laserfiche 2017 - 2019
+ Create, manage, and edit diverse types of documentation, including user guides, configuration guides for systems administrators, and API tutorials for third-party developers.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://boltzmann-brain.github.io/about/</link>
+      <pubDate>Mon, 27 May 2019 21:56:58 -0400</pubDate>
+      
+      <guid>http://boltzmann-brain.github.io/about/</guid>
+      <description>I&amp;rsquo;m an NYC-based technical writer who documents a cloud platform for data scientists and software engineers. I also conduct research on fairness and explainability in data science. Prior to this, I was a researcher in fields as diverse as philosophy, computer vision, and physics.</description>
+    </item>
+    
+  </channel>
+</rss>
