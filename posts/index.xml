@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Leif Hancox-Li</title>
+    <link>https://boltzmann-brain.github.io/posts/</link>
+    <description>Recent content in Posts on Leif Hancox-Li</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 03 May 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://boltzmann-brain.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Literary Social Science in Milkman and Uncanny Valley</title>
+      <link>https://boltzmann-brain.github.io/posts/milkman-uncanny-valley/</link>
+      <pubDate>Sun, 03 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://boltzmann-brain.github.io/posts/milkman-uncanny-valley/</guid>
+      <description>I recently happened to read two books in close succession that, unbeknownst to me before my readings, were both what I&amp;rsquo;m calling literary social science&amp;mdash;which is particularly striking given that one book is fiction and the other is a memoir. Anna Burns&amp;rsquo; Milkman is a fictional narrative by a teenager in Northern Ireland during the Troubles, and Anna Wiener&amp;rsquo;s Uncanny Valley is a memoir of Wiener&amp;rsquo;s stint working in Silicon Valley.</description>
+    </item>
+    
+  </channel>
+</rss>

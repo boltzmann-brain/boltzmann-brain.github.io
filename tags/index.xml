@@ -6,9 +6,46 @@
     <description>Recent content in Tags on Leif Hancox-Li</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <lastBuildDate>Sun, 03 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://boltzmann-brain.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>books</title>
+      <link>https://boltzmann-brain.github.io/tags/books/</link>
+      <pubDate>Sun, 03 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://boltzmann-brain.github.io/tags/books/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ethnography</title>
+      <link>https://boltzmann-brain.github.io/tags/ethnography/</link>
+      <pubDate>Sun, 03 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://boltzmann-brain.github.io/tags/ethnography/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fiction</title>
+      <link>https://boltzmann-brain.github.io/tags/fiction/</link>
+      <pubDate>Sun, 03 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://boltzmann-brain.github.io/tags/fiction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tech</title>
+      <link>https://boltzmann-brain.github.io/tags/tech/</link>
+      <pubDate>Sun, 03 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://boltzmann-brain.github.io/tags/tech/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

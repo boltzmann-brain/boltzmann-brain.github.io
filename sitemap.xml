@@ -4,7 +4,48 @@
   
   <url>
     <loc>https://boltzmann-brain.github.io/</loc>
-    <lastmod>2019-07-07T21:48:16-04:00</lastmod>
+    <lastmod>2020-05-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://boltzmann-brain.github.io/posts/milkman-uncanny-valley/</loc>
+    <lastmod>2020-05-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://boltzmann-brain.github.io/posts/</loc>
+    <lastmod>2020-05-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://boltzmann-brain.github.io/tags/</loc>
+    <lastmod>2020-05-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://boltzmann-brain.github.io/tags/books/</loc>
+    <lastmod>2020-05-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://boltzmann-brain.github.io/tags/ethnography/</loc>
+    <lastmod>2020-05-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://boltzmann-brain.github.io/tags/fiction/</loc>
+    <lastmod>2020-05-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://boltzmann-brain.github.io/tags/tech/</loc>
+    <lastmod>2020-05-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -25,11 +66,6 @@
   
   <url>
     <loc>https://boltzmann-brain.github.io/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://boltzmann-brain.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   

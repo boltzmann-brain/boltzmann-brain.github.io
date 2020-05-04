@@ -6,10 +6,19 @@
     <description>Recent content on Leif Hancox-Li</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 07 Jul 2019 21:48:16 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 03 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://boltzmann-brain.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Literary Social Science in Milkman and Uncanny Valley</title>
+      <link>https://boltzmann-brain.github.io/posts/milkman-uncanny-valley/</link>
+      <pubDate>Sun, 03 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://boltzmann-brain.github.io/posts/milkman-uncanny-valley/</guid>
+      <description>I recently happened to read two books in close succession that, unbeknownst to me before my readings, were both what I&amp;rsquo;m calling literary social science&amp;mdash;which is particularly striking given that one book is fiction and the other is a memoir. Anna Burns&amp;rsquo; Milkman is a fictional narrative by a teenager in Northern Ireland during the Troubles, and Anna Wiener&amp;rsquo;s Uncanny Valley is a memoir of Wiener&amp;rsquo;s stint working in Silicon Valley.</description>
+    </item>
     
     <item>
       <title>Papers</title>
@@ -18,7 +27,7 @@
       
       <guid>https://boltzmann-brain.github.io/papers/</guid>
       <description>A list of my published papers and preprints in philosophy of machine learning, feminist philosophy, and philosophy of physics. You can also view a copy of my academic CV here.
-Philosophy of Science &amp;ldquo;Robustness in Machine Learning Explanations: Does It Matter?&amp;rdquo; Forthcoming in Conference on Fairness, Accountability, and Transparency (FAT* ’20), January 27–30, 2020, Barcelona, Spain. ACM, New York, NY, USA.
+Philosophy of Science &amp;ldquo;Robustness in Machine Learning Explanations: Does It Matter?&amp;rdquo; Conference on Fairness, Accountability, and Transparency (FAccT ’20), January 27–30, 2020, Barcelona, Spain. ACM, New York, NY, USA.
  Applying the concept of derivational robustness to explanations generated for black-box machine learning models.</description>
     </item>
     
