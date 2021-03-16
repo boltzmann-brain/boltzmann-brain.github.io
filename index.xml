@@ -6,10 +6,19 @@
     <description>Recent content on Leif Hancox-Li</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 05 Feb 2021 16:23:44 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 15 Mar 2021 19:40:21 -0400</lastBuildDate>
     
 	<atom:link href="https://boltzmann-brain.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Alternative computing styles and gender</title>
+      <link>https://boltzmann-brain.github.io/posts/pluralism-cs/</link>
+      <pubDate>Mon, 15 Mar 2021 19:40:21 -0400</pubDate>
+      
+      <guid>https://boltzmann-brain.github.io/posts/pluralism-cs/</guid>
+      <description>Lizzie Kumar and I recently co-authored a paper at FAccT that applied feminist epistemology to explanation methods in machine learning. People must have liked it, because we won a best paper award for it. One of the points we made, borrowing from feminist epistemology, is that we could do with more epistemological pluralism when it comes to evaluating these methods, and that we should consider if certain dominant computing values cause us to over-trust some explanation methods.</description>
+    </item>
     
     <item>
       <title>Epistemic dynamics and gender in the philosophy of physics</title>
@@ -47,7 +56,7 @@ Why? Here&amp;rsquo;s what would happen:
       
       <guid>https://boltzmann-brain.github.io/papers/</guid>
       <description>A list of my published papers and preprints in philosophy of machine learning, feminist philosophy, and philosophy of physics. You can also view a copy of my academic CV here.
-Philosophy of Machine Learning &amp;ldquo;Epistemic values in feature importance methods: Lessons from feminist epistemology&amp;rdquo;. Forthcoming at the Conference on Fairness, Accountability, and Transparency (FAccT ’21).
+Philosophy of Machine Learning &amp;ldquo;Epistemic values in feature importance methods: Lessons from feminist epistemology&amp;rdquo;. Conference on Fairness, Accountability, and Transparency (FAccT ’21).
  Argues that many popular feature importance methods in ML adhere to a methodology and view of objectivity that is in tension with feminist epistemology.</description>
     </item>
     
@@ -68,7 +77,7 @@ Work Senior Data Scientist, Capital One 2020 - present
       <pubDate>Mon, 27 May 2019 21:56:58 -0400</pubDate>
       
       <guid>https://boltzmann-brain.github.io/about/</guid>
-      <description>I&amp;rsquo;m an NYC-based data scientist who does research and education on responsible AI. Prior to this, I wrote developer-oriented and user-facing documentation. An even longer time ago, I got a PhD in philosophy after stints in computer vision and physics. You can contact me at [my first name]@fastmail.com.</description>
+      <description>I&amp;rsquo;m a data scientist who does interdisciplinary research and education on responsible AI, currently based in Pittsburgh, Pennsylvania. Prior to this, I was a technical writer for a variety of software products, ranging from MLOps to REST APIs to complicated enterprise GUIs. An even longer time ago, I got a PhD in philosophy after stints in computer vision and physics. You can contact me at [my first name]@fastmail.com.</description>
     </item>
     
   </channel>
