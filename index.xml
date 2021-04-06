@@ -6,10 +6,20 @@
     <description>Recent content on Leif Hancox-Li</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 15 Mar 2021 19:40:21 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 26 Mar 2021 18:47:10 -0400</lastBuildDate>
     
 	<atom:link href="https://boltzmann-brain.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title></title>
+      <link>https://boltzmann-brain.github.io/posts/academia-tech-writing/</link>
+      <pubDate>Fri, 26 Mar 2021 18:47:10 -0400</pubDate>
+      
+      <guid>https://boltzmann-brain.github.io/posts/academia-tech-writing/</guid>
+      <description>Occasionally, unhappy academics ask me for advice on how to get non-academic jobs. Few of them consider technical writing as a career option, and I think more of them should&amp;mdash;technical writing values skills that many academics already have, and provides similar intellectual challenges, but with greater career flexibility than academia has.
+Here, I&amp;rsquo;ll describe my journey into technical writing and why I found it fulfilling, adding on some basic advice and views on the technical writing job market.</description>
+    </item>
     
     <item>
       <title>Alternative computing styles and gender</title>
