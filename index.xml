@@ -83,7 +83,7 @@ Philosophy of Machine Learning &amp;ldquo;Should attention be all we need? The e
       <guid>https://boltzmann-brain.github.io/resume/</guid>
       <description>My resume is also available in PDF form. Alternatively, you can view my LinkedIn profile.
 Work Senior Data Scientist, Capital One 2020 - present
- Do research on fair and explainable machine learning, including internal user studies and peer-reviewed work on methodological issues. Implement explainability solutions for machine learning models, customizing each solution to user needs. Educate other Capital One data scientists on best practices for responsible AI through both written materials and talks.</description>
+ Do research on fair and explainable machine learning, including internal user studies and peer-reviewed work on methodological issues. Research and implement technical explainability solutions (SHAP, LIME, GAMs) for black-box machine learning models, customizing dashboards and visualizations to user needs. Educate other Capital One data scientists on best practices for responsible AI through both written materials and talks.</description>
     </item>
     
     <item>
