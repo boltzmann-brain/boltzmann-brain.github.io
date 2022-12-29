@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://boltzmann-brain.github.io/writing/</loc>
+    <lastmod>2022-12-29T17:05:30-05:00</lastmod>
+  </url><url>
     <loc>https://boltzmann-brain.github.io/tags/ai/</loc>
     <lastmod>2022-01-28T00:00:00+00:00</lastmod>
   </url><url>
