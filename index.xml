@@ -6,7 +6,21 @@
     <description>Recent content on Leif Hancox-Li</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 03 Apr 2023 13:04:09 -0500</lastBuildDate><atom:link href="https://boltzmann-brain.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 12 Apr 2023 13:04:09 -0500</lastBuildDate><atom:link href="https://boltzmann-brain.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The week in Responsible AI: Apr 12, 2023</title>
+      <link>https://boltzmann-brain.github.io/posts/twrai-7/</link>
+      <pubDate>Wed, 12 Apr 2023 13:04:09 -0500</pubDate>
+      
+      <guid>https://boltzmann-brain.github.io/posts/twrai-7/</guid>
+      <description>General  AI Now released their annual report. Read about LLMs, antitrust, accountability, workplace surveillance, industrial policy, and more!  Law/Policy   ChatGPT and Copyright: The Ultimate Appropriation
+  Foundation Models and Fair Use
+  Vanderbilt Law Review: Humans in the Loop
+  Defining Disparate Treatment: A Research Agenda For Our Times
+  Transparency   Contextual transparency for automated decision systems (PDF)
+  The Algorithmic Transparency Playbook</description>
+    </item>
+    
     <item>
       <title>The past two weeks in Responsible AI: Apr 3, 2023</title>
       <link>https://boltzmann-brain.github.io/posts/twrai-6/</link>
