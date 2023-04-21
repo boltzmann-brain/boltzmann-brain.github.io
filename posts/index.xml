@@ -6,7 +6,22 @@
     <description>Recent content in Posts on Leif Hancox-Li</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 12 Apr 2023 13:04:09 -0500</lastBuildDate><atom:link href="https://boltzmann-brain.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 20 Apr 2023 13:04:09 -0500</lastBuildDate><atom:link href="https://boltzmann-brain.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>This week in Responsible AI: Apr 21, 2023</title>
+      <link>https://boltzmann-brain.github.io/posts/twrai-8/</link>
+      <pubDate>Thu, 20 Apr 2023 13:04:09 -0500</pubDate>
+      
+      <guid>https://boltzmann-brain.github.io/posts/twrai-8/</guid>
+      <description>General   NeurIPS announces a code of ethics
+  The Myth of Objective Data
+  How do you design an AI ethics board that actually works?
+  Law/Policy   How We Think About Copyright and AI Art
+  Italy gives OpenAI initial to-do list for lifting ChatGPT suspension order
+  OpenAI could soon be banned from the entire EU for violating GDPR
+  Drake deepfake raises copyright issues: 1, 2</description>
+    </item>
+    
     <item>
       <title>This week in Responsible AI: Apr 12, 2023</title>
       <link>https://boltzmann-brain.github.io/posts/twrai-7/</link>
