@@ -208,8 +208,8 @@ Why? Here&amp;rsquo;s what would happen:
       
       <guid>https://boltzmann-brain.github.io/papers/</guid>
       <description>A list of my published papers and preprints in philosophy of machine learning, feminist philosophy, and philosophy of physics.
-Philosophy of Machine Learning &amp;ldquo;Making Intelligence: Ethical Values in IQ and ML Benchmarks&amp;rdquo;. In Proceedings of the 2023 ACM Conference on Fairness, Accountability, and Transparency (FAccT &amp;lsquo;23).
- Uses lessons from feminist and anti-racist critiques of IQ benchmarks to point to similar risks in how we create machine learning benchmarks. Journal link, Preprint  &amp;ldquo;Should attention be all we need?</description>
+AI Ethics / Philosophy of Machine Learning &amp;ldquo;The Disagreement Problem in Faithfulness Metrics&amp;rdquo;. Forthcoming as part of the NeurIPS 2023 XAI in Action workshop. Co-authored with Brian Barr, Noah Fatsi, Alden Richter, Caleb Mok, and Danny Proano.
+ Post-hoc explainability methods for black-box machine learning models are sometimes evaluated based on how &amp;ldquo;faithful&amp;rdquo; they are to the black-box model.</description>
     </item>
     
     <item>
