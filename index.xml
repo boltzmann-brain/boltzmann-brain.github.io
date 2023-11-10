@@ -220,7 +220,7 @@ AI Ethics / Philosophy of Machine Learning &amp;ldquo;The Disagreement Problem i
       <guid>https://boltzmann-brain.github.io/resume/</guid>
       <description>My resume is also available in PDF form. Alternatively, you can view my LinkedIn profile.
 Work Senior Data Scientist, Capital One 2020 - present
- Do research on fair and explainable machine learning, including internal user studies and peer-reviewed work on methodological issues. Research and implement technical explainability solutions (SHAP, LIME, GAMs, gradient-based methods) for black-box machine learning models, customizing dashboards and visualizations to user needs. Educate other Capital One data scientists on best practices for responsible AI through both written materials and talks.</description>
+ Do research on ethical and explainable machine learning, including internal user studies and peer-reviewed work on methodological issues. Lead evaluation efforts for large language models. Work with business stakeholders to create reliable human labels, help create synthetic data for human evaluation, experiment with hallucination detection methods, and investigate which automatic methods of evaluation adequately capture what stakeholders want.</description>
     </item>
     
     <item>
@@ -229,7 +229,8 @@ Work Senior Data Scientist, Capital One 2020 - present
       <pubDate>Mon, 27 May 2019 21:56:58 -0400</pubDate>
       
       <guid>https://boltzmann-brain.github.io/about/</guid>
-      <description>I&amp;rsquo;m a data scientist who does interdisciplinary research on responsible AI and helps data science teams understand their black-box models using explainable AI methods. I excel at bringing a humanistic perspective to technical issues while also having the skills to implement technical solutions that take social values into account. My research has won best paper awards at both FAccT and the Philosophy of Science Association. I also curate a weekly newsletter that links to the latest AI ethics news.</description>
+      <description>I&amp;rsquo;m a data scientist who does interdisciplinary research on responsible AI and helps data science teams understand their black-box models using explainable AI methods. Lately, I have also taken on new responsibilities in evaluating large language models: including curating/managing evaluation datasets, researching evaluation methods (both human and automatic), and detecting hallucinations.
+I excel at bringing a humanistic perspective to technical issues while also having the skills to implement technical solutions that take social values into account.</description>
     </item>
     
   </channel>
