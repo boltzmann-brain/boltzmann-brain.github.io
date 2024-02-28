@@ -2,39 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://boltzmann-brain.github.io/</loc>
-    <lastmod>2023-04-30T13:04:09-05:00</lastmod>
-  </url><url>
-    <loc>https://boltzmann-brain.github.io/posts/</loc>
-    <lastmod>2023-04-30T13:04:09-05:00</lastmod>
-  </url><url>
-    <loc>https://boltzmann-brain.github.io/posts/twrai-9/</loc>
-    <lastmod>2023-04-30T13:04:09-05:00</lastmod>
-  </url><url>
-    <loc>https://boltzmann-brain.github.io/posts/twrai-8/</loc>
-    <lastmod>2023-04-20T13:04:09-05:00</lastmod>
-  </url><url>
-    <loc>https://boltzmann-brain.github.io/posts/twrai-7/</loc>
-    <lastmod>2023-04-12T13:04:09-05:00</lastmod>
-  </url><url>
-    <loc>https://boltzmann-brain.github.io/posts/twrai-6/</loc>
-    <lastmod>2023-04-03T13:04:09-05:00</lastmod>
-  </url><url>
-    <loc>https://boltzmann-brain.github.io/posts/twrai-5/</loc>
-    <lastmod>2023-03-19T23:04:09-05:00</lastmod>
-  </url><url>
-    <loc>https://boltzmann-brain.github.io/posts/twrai-4/</loc>
-    <lastmod>2023-03-08T23:04:09-05:00</lastmod>
-  </url><url>
-    <loc>https://boltzmann-brain.github.io/posts/twrai-3/</loc>
-    <lastmod>2023-02-28T23:04:09-05:00</lastmod>
-  </url><url>
-    <loc>https://boltzmann-brain.github.io/posts/twrai-2/</loc>
-    <lastmod>2023-02-22T23:04:09-05:00</lastmod>
-  </url><url>
-    <loc>https://boltzmann-brain.github.io/posts/twrai-1/</loc>
-    <lastmod>2023-02-15T23:04:09-05:00</lastmod>
-  </url><url>
     <loc>https://boltzmann-brain.github.io/writing/</loc>
     <lastmod>2022-12-29T17:05:30-05:00</lastmod>
   </url><url>
@@ -47,7 +14,13 @@
     <loc>https://boltzmann-brain.github.io/tags/interview/</loc>
     <lastmod>2022-01-28T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://boltzmann-brain.github.io/</loc>
+    <lastmod>2022-01-28T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://boltzmann-brain.github.io/tags/ml/</loc>
+    <lastmod>2022-01-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://boltzmann-brain.github.io/posts/</loc>
     <lastmod>2022-01-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://boltzmann-brain.github.io/tags/</loc>
