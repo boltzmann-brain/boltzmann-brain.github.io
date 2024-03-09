@@ -93,9 +93,8 @@ AI Ethics / Philosophy of Machine Learning &amp;ldquo;The Disagreement Problem i
       <pubDate>Sat, 06 Jul 2019 16:42:37 -0400</pubDate>
       
       <guid>https://boltzmann-brain.github.io/resume/</guid>
-      <description>My resume is also available in PDF form. Alternatively, you can view my LinkedIn profile.
-Work Senior Data Scientist, Capital One 2020 - present
- Do research on ethical and explainable machine learning, including internal user studies and peer-reviewed work on methodological issues. Lead evaluation efforts for large language models. Work with business stakeholders to create reliable human labels, help create synthetic data for human evaluation, experiment with hallucination detection methods, and investigate which automatic methods of evaluation adequately capture what stakeholders want.</description>
+      <description>Work Senior Data Scientist, Capital One 2020 - present
+ Do research on ethical and explainable machine learning, including internal user studies and peer-reviewed work on methodological issues. Lead evaluation efforts for large language models. Work with business stakeholders to create reliable human labels, help create synthetic data for human evaluation, experiment with hallucination detection methods, and investigate which automatic methods of evaluation adequately capture what stakeholders want. Research and implement technical explainability solutions (SHAP, LIME, GAMs, gradient-based methods) for black-box machine learning models, customizing dashboards and visualizations to user needs.</description>
     </item>
     
     <item>
