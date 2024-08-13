@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ai on Leif Hancox-Li</title>
+    <title>Ai on Leif Hancox-Li</title>
     <link>https://boltzmann-brain.github.io/tags/ai/</link>
-    <description>Recent content in ai on Leif Hancox-Li</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Ai on Leif Hancox-Li</description>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 28 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://boltzmann-brain.github.io/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 28 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://boltzmann-brain.github.io/tags/ai/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Der Spiegel&#39;s 1987 interview with Joseph Weizenbaum</title>
       <link>https://boltzmann-brain.github.io/posts/weizenbaum/</link>
       <pubDate>Fri, 28 Jan 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://boltzmann-brain.github.io/posts/weizenbaum/</guid>
       <description>A few years ago, I found this 1987 interview with the early AI researcher-turned-AI skeptic Joseph Weizenbaum. It covers a lot of ground, such as the military-industrial complex, whether computers can capture human experience, and other points that today&amp;rsquo;s AI skeptics will be sympathetic to. (These themes were also covered in longer form in his book, Computer Power and Human Reason.) As far as I know, there isn&amp;rsquo;t an English translation of this interview available.</description>
     </item>
-    
   </channel>
 </rss>
