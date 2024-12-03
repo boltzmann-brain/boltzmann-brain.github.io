@@ -4,58 +4,71 @@
     <title>Tags on Leif Hancox-Li</title>
     <link>https://boltzmann-brain.github.io/tags/</link>
     <description>Recent content in Tags on Leif Hancox-Li</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 28 Jan 2022 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://boltzmann-brain.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 28 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://boltzmann-brain.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Ai</title>
+      <title>ai</title>
       <link>https://boltzmann-brain.github.io/tags/ai/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 28 Jan 2022 00:00:00 +0000</pubDate>
+      
       <guid>https://boltzmann-brain.github.io/tags/ai/</guid>
       <description></description>
     </item>
+    
     <item>
-      <title>Interview</title>
+      <title>interview</title>
       <link>https://boltzmann-brain.github.io/tags/interview/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 28 Jan 2022 00:00:00 +0000</pubDate>
+      
       <guid>https://boltzmann-brain.github.io/tags/interview/</guid>
       <description></description>
     </item>
+    
     <item>
-      <title>Ml</title>
+      <title>ml</title>
       <link>https://boltzmann-brain.github.io/tags/ml/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 28 Jan 2022 00:00:00 +0000</pubDate>
+      
       <guid>https://boltzmann-brain.github.io/tags/ml/</guid>
       <description></description>
     </item>
+    
     <item>
-      <title>Tech</title>
+      <title>tech</title>
       <link>https://boltzmann-brain.github.io/tags/tech/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 28 Jan 2022 00:00:00 +0000</pubDate>
+      
       <guid>https://boltzmann-brain.github.io/tags/tech/</guid>
       <description></description>
     </item>
+    
     <item>
-      <title>Books</title>
+      <title>books</title>
       <link>https://boltzmann-brain.github.io/tags/books/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 03 May 2020 00:00:00 +0000</pubDate>
+      
       <guid>https://boltzmann-brain.github.io/tags/books/</guid>
       <description></description>
     </item>
+    
     <item>
-      <title>Ethnography</title>
+      <title>ethnography</title>
       <link>https://boltzmann-brain.github.io/tags/ethnography/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 03 May 2020 00:00:00 +0000</pubDate>
+      
       <guid>https://boltzmann-brain.github.io/tags/ethnography/</guid>
       <description></description>
     </item>
+    
     <item>
-      <title>Fiction</title>
+      <title>fiction</title>
       <link>https://boltzmann-brain.github.io/tags/fiction/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 03 May 2020 00:00:00 +0000</pubDate>
+      
       <guid>https://boltzmann-brain.github.io/tags/fiction/</guid>
       <description></description>
     </item>
+    
   </channel>
 </rss>
