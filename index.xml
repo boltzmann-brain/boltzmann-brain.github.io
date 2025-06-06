@@ -4,117 +4,86 @@
     <title>Leif Hancox-Li</title>
     <link>https://boltzmann-brain.github.io/</link>
     <description>Recent content on Leif Hancox-Li</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 26 Apr 2024 21:36:35 -0400</lastBuildDate><atom:link href="https://boltzmann-brain.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 26 Apr 2024 21:36:35 -0400</lastBuildDate>
+    <atom:link href="https://boltzmann-brain.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Choicewashing PhD Admissions</title>
       <link>https://boltzmann-brain.github.io/posts/choicewashing/</link>
       <pubDate>Fri, 26 Apr 2024 21:36:35 -0400</pubDate>
-      
       <guid>https://boltzmann-brain.github.io/posts/choicewashing/</guid>
       <description>Anne Helen Petersen&amp;rsquo;s newsletter recently featured an interview that struck so many emotional chords in me that I had to write about it. The Trouble with Passion contains an interview with sociology professor Erin A. Cech on her book for the same name, which is about &amp;ldquo;passion jobs&amp;rdquo;. As a survivor of academia, so much of the interview resonated with me. I want to focus on one concept she introduces&amp;mdash;&amp;ldquo;choicewashing&amp;rdquo;&amp;mdash;and suggest that a very common argument for not reducing PhD admissions in the midst of the academic jobs crisis is essentially a form of choicewashing.</description>
     </item>
-    
     <item>
       <title>Writing Samples</title>
       <link>https://boltzmann-brain.github.io/writing/</link>
       <pubDate>Thu, 29 Dec 2022 17:05:30 -0500</pubDate>
-      
       <guid>https://boltzmann-brain.github.io/writing/</guid>
-      <description>Here are some links to writing samples from my previous roles in software documentation. For my academic writing, see Papers.
-I can also provide writing samples that aren&amp;rsquo;t publicly available upon request.
-Messagebird writing samples These tutorials for sample Flask/Python apps demo-ing a REST API are from a freelance gig I had a few years ago. I wrote both the sample apps and the tutorials.
- Verify voice guide Notifications guide  Laserfiche writing samples I wrote most of the topics under Customizing a Classic Form with CSS and Javascript.</description>
+      <description>Here are some links to writing samples from my previous roles in software documentation. For my academic writing, see Papers.&#xA;I can also provide writing samples that aren&amp;rsquo;t publicly available upon request.&#xA;Messagebird writing samples These tutorials for sample Flask/Python apps demo-ing a REST API are from a freelance gig I had a few years ago. I wrote both the sample apps and the tutorials.&#xA;Verify voice guide Notifications guide Laserfiche writing samples I wrote most of the topics under Customizing a Classic Form with CSS and Javascript.</description>
     </item>
-    
     <item>
       <title>Der Spiegel&#39;s 1987 interview with Joseph Weizenbaum</title>
       <link>https://boltzmann-brain.github.io/posts/weizenbaum/</link>
       <pubDate>Fri, 28 Jan 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://boltzmann-brain.github.io/posts/weizenbaum/</guid>
       <description>A few years ago, I found this 1987 interview with the early AI researcher-turned-AI skeptic Joseph Weizenbaum. It covers a lot of ground, such as the military-industrial complex, whether computers can capture human experience, and other points that today&amp;rsquo;s AI skeptics will be sympathetic to. (These themes were also covered in longer form in his book, Computer Power and Human Reason.) As far as I know, there isn&amp;rsquo;t an English translation of this interview available.</description>
     </item>
-    
     <item>
       <title>My journey from academia into technical writing</title>
       <link>https://boltzmann-brain.github.io/posts/academia-tech-writing/</link>
       <pubDate>Fri, 26 Mar 2021 18:47:10 -0400</pubDate>
-      
       <guid>https://boltzmann-brain.github.io/posts/academia-tech-writing/</guid>
-      <description>Occasionally, unhappy academics ask me for advice on how to get non-academic jobs. Few of them consider technical writing as a career option, and I think more of them should&amp;mdash;technical writing values skills that many academics already have, and provides similar intellectual challenges, but with greater career flexibility than academia has.
-Here, I&amp;rsquo;ll describe my journey into technical writing and why I found it fulfilling, adding on some basic advice and views on the technical writing job market.</description>
+      <description>Occasionally, unhappy academics ask me for advice on how to get non-academic jobs. Few of them consider technical writing as a career option, and I think more of them should&amp;mdash;technical writing values skills that many academics already have, and provides similar intellectual challenges, but with greater career flexibility than academia has.&#xA;Here, I&amp;rsquo;ll describe my journey into technical writing and why I found it fulfilling, adding on some basic advice and views on the technical writing job market.</description>
     </item>
-    
     <item>
       <title>Alternative computing styles and gender</title>
       <link>https://boltzmann-brain.github.io/posts/pluralism-cs/</link>
       <pubDate>Mon, 15 Mar 2021 19:40:21 -0400</pubDate>
-      
       <guid>https://boltzmann-brain.github.io/posts/pluralism-cs/</guid>
       <description>Lizzie Kumar and I recently co-authored a paper at FAccT that applied feminist epistemology to explanation methods in machine learning. People must have liked it, because we won a best paper award for it. One of the points we made, borrowing from feminist epistemology, is that we could do with more epistemological pluralism when it comes to evaluating these methods, and that we should consider if certain dominant computing values cause us to over-trust some explanation methods.</description>
     </item>
-    
     <item>
       <title>Epistemic dynamics and gender in the philosophy of physics</title>
       <link>https://boltzmann-brain.github.io/posts/dotson-phil-physics/</link>
       <pubDate>Fri, 05 Feb 2021 16:23:44 -0400</pubDate>
-      
       <guid>https://boltzmann-brain.github.io/posts/dotson-phil-physics/</guid>
-      <description>There was no shortage of women who entered my PhD program wanting to do philosophy of physics. There were as many of them, in my time there, as there were men interested in the same. Yet in the end, much fewer women ended up specializing in that, by the time they left the program.
-Why? Here&amp;rsquo;s what would happen:
-  A woman would be admitted with a philosophy of physics interest and enthusiastically start taking the philosophy of physics courses.</description>
+      <description>There was no shortage of women who entered my PhD program wanting to do philosophy of physics. There were as many of them, in my time there, as there were men interested in the same. Yet in the end, much fewer women ended up specializing in that, by the time they left the program.&#xA;Why? Here&amp;rsquo;s what would happen:&#xA;A woman would be admitted with a philosophy of physics interest and enthusiastically start taking the philosophy of physics courses.</description>
     </item>
-    
     <item>
       <title>Why I Don&#39;t Defend Professional Philosophy</title>
       <link>https://boltzmann-brain.github.io/posts/ethics/</link>
       <pubDate>Sun, 19 Jul 2020 15:38:39 -0400</pubDate>
-      
       <guid>https://boltzmann-brain.github.io/posts/ethics/</guid>
       <description>As a former professional philosopher who now does research on responsible AI, I&amp;rsquo;ve been to multiple events where someone working on the social impacts of AI will make a negative remark about philosophy. Typically, their criticism implicitly targets the dominant strain of academic philosophy in the Anglophone tradition, encompassing the various analytic approaches to ethics. As an ex-philosopher who finds my background in philosophy of science sometimes useful to my AI research, I might be expected to defend my former field, but in fact I largely agree with the criticisms and think on the whole that it would not be helpful to respond to these criticisms by listing the various &amp;ldquo;exceptions&amp;rdquo; to the rule.</description>
     </item>
-    
     <item>
       <title>Literary Social Science in Milkman and Uncanny Valley</title>
       <link>https://boltzmann-brain.github.io/posts/milkman-uncanny-valley/</link>
       <pubDate>Sun, 03 May 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://boltzmann-brain.github.io/posts/milkman-uncanny-valley/</guid>
-      <description>I recently happened to read two books in close succession that, unbeknownst to me before my readings, were both what I&amp;rsquo;m calling literary social science&amp;mdash;which is particularly striking given that one book is fiction and the other is a memoir. Anna Burns&#39; Milkman is a fictional narrative by a teenager in Northern Ireland during the Troubles, and Anna Wiener&amp;rsquo;s Uncanny Valley is a memoir of Wiener&amp;rsquo;s stint working in Silicon Valley.</description>
+      <description>I recently happened to read two books in close succession that, unbeknownst to me before my readings, were both what I&amp;rsquo;m calling literary social science&amp;mdash;which is particularly striking given that one book is fiction and the other is a memoir. Anna Burns&amp;rsquo; Milkman is a fictional narrative by a teenager in Northern Ireland during the Troubles, and Anna Wiener&amp;rsquo;s Uncanny Valley is a memoir of Wiener&amp;rsquo;s stint working in Silicon Valley.</description>
     </item>
-    
     <item>
       <title>Papers</title>
       <link>https://boltzmann-brain.github.io/papers/</link>
       <pubDate>Sun, 07 Jul 2019 21:48:16 -0400</pubDate>
-      
       <guid>https://boltzmann-brain.github.io/papers/</guid>
-      <description>A list of my published papers and preprints in philosophy of machine learning, feminist philosophy, and philosophy of physics.
-AI Ethics / Philosophy of Machine Learning &amp;ldquo;Is ETHICS about ethics? Evaluating the ETHICS benchmark&amp;rdquo;. Co-first author with Borhane Blili-Hamelin. Forthcoming at the Neurips 2024 EvalEval workshop.
-&amp;ldquo;Unsocial Intelligence: an Investigation of the Assumptions of AGI Discourse&amp;rdquo;. AIES 2024. In Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society, 7(1), 141-155.</description>
+      <description>A list of my published papers and preprints in philosophy of machine learning, feminist philosophy, and philosophy of physics.&#xA;AI Ethics / Philosophy of Machine Learning Position: Stop treating &amp;ldquo;AGI&amp;rdquo; as the north-star goal of AI research. Third author (contributed a large part of the writing and research.) Forthcoming at ICML 2025.&#xA;&amp;ldquo;Is ETHICS about ethics? Evaluating the ETHICS benchmark&amp;rdquo;. Co-first author with Borhane Blili-Hamelin. Presented at the NeurIPS 2024 EvalEval workshop and forthcoming in a Springer special issue.</description>
     </item>
-    
     <item>
       <title>Experience</title>
       <link>https://boltzmann-brain.github.io/resume/</link>
       <pubDate>Sat, 06 Jul 2019 16:42:37 -0400</pubDate>
-      
       <guid>https://boltzmann-brain.github.io/resume/</guid>
-      <description>Work Applied Scientist, Vijil 2024-present
- Improve and create automated methods to evaluate the trustworthiness and ethical aspects of large language models. Conducted quality control on red-teaming prompts from academic research; evaluated and improved on methods for detecting undesirable model responses. Contribute to codebase containing large quantities of red-teaming prompt objects and detectors of undesirable model responses. Design evaluation harnesses for both safety and performance aspects of LLMs, using latest academic research as a guide.</description>
+      <description>Work Applied Scientist, Vijil 2024-present&#xA;Improve and create automated methods to evaluate the trustworthiness and ethical aspects of large language models. Conducted quality control on red-teaming prompts from academic research; evaluated and improved on methods for detecting undesirable model responses. Contribute to codebase containing large quantities of red-teaming prompt objects and detectors of undesirable model responses. Design evaluation harnesses for both safety and performance aspects of LLMs, using latest academic research as a guide.</description>
     </item>
-    
     <item>
       <title>About</title>
       <link>https://boltzmann-brain.github.io/about/</link>
       <pubDate>Mon, 27 May 2019 21:56:58 -0400</pubDate>
-      
       <guid>https://boltzmann-brain.github.io/about/</guid>
-      <description>I&amp;rsquo;m a data scientist who does interdisciplinary research on responsible AI. Lately, I&amp;rsquo;ve been focusing on evaluating large language models: including curating/managing evaluation datasets, researching evaluation methods (both human and automatic), and detecting undesirable outputs.
-I excel at bringing a humanistic perspective to technical issues while also having the skills to implement technical solutions that take social values into account. My research has won best paper awards at both FAccT and the Philosophy of Science Association.</description>
+      <description>I&amp;rsquo;m a data scientist who does interdisciplinary research on responsible AI. Lately, I&amp;rsquo;ve been focusing on evaluating large language models: including curating/managing evaluation datasets, researching evaluation methods (both human and automatic), and detecting undesirable outputs.&#xA;I excel at bringing a humanistic perspective to technical issues while also having the skills to implement technical solutions that take social values into account. My research has won best paper awards at both FAccT and the Philosophy of Science Association.</description>
     </item>
-    
   </channel>
 </rss>
